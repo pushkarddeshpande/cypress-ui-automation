@@ -19,7 +19,7 @@ module.exports = defineConfig({
   reporterOptions: {
     reportDir: 'reports/mochawesome',
     overwrite: false,
-    html: false,
+    html: true,
     json: true
   },
   retries: {
