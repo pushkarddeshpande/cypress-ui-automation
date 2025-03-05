@@ -1,0 +1,10 @@
+{
+  "suites": 1,
+  "tests": 7,
+  "passes": 7,
+  "pending": 0,
+  "failures": 0,
+  "start": "2025-03-05T14:05:22.548Z",
+  "duration": 18167,
+  "file": "cypress/e2e/2-advanced-examples/spies_stubs_clocks.cy.js"
+}

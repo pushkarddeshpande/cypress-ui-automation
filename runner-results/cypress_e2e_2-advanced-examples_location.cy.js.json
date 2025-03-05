@@ -1,0 +1,10 @@
+{
+  "suites": 1,
+  "tests": 3,
+  "passes": 3,
+  "pending": 0,
+  "failures": 0,
+  "start": "2025-03-05T14:06:50.756Z",
+  "duration": 3779,
+  "file": "cypress/e2e/2-advanced-examples/location.cy.js"
+}

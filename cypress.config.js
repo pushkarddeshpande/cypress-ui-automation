@@ -39,7 +39,7 @@ module.exports = defineConfig({
       return config;
     },
     testIsolation: false,    
-    specPattern: 'cypress/e2e/1-getting-started/todo.cy.js',
+    specPattern: 'cypress/e2e/**/*.js',
     experimentalWebKitSupport: true,    
     experimentalMemoryManagement: true
   },

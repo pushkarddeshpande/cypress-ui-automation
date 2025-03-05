@@ -17,3 +17,7 @@ npm run allure-report
 /* To get mochawesome report - check script in package.json */ 
 
 npm run mochawesome-merge
+
+/* To run cypress tests in parallel on local */ 
+
+npm run cy:parallel

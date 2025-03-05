@@ -1,0 +1,10 @@
+{
+  "suites": 1,
+  "tests": 6,
+  "passes": 6,
+  "pending": 0,
+  "failures": 0,
+  "start": "2025-03-05T14:04:52.883Z",
+  "duration": 19471,
+  "file": "cypress/e2e/2-advanced-examples/network_requests.cy.js"
+}

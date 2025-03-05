@@ -1,0 +1,10 @@
+{
+  "suites": 1,
+  "tests": 7,
+  "passes": 6,
+  "pending": 0,
+  "failures": 1,
+  "start": "2025-03-05T14:04:30.669Z",
+  "duration": 19255,
+  "file": "cypress/e2e/2-advanced-examples/cookies.cy.js"
+}

@@ -1,0 +1,10 @@
+{
+  "suites": 1,
+  "tests": 2,
+  "passes": 2,
+  "pending": 0,
+  "failures": 0,
+  "start": "2025-03-05T14:05:47.832Z",
+  "duration": 16054,
+  "file": "cypress/e2e/2-advanced-examples/waiting.cy.js"
+}

@@ -1,0 +1,10 @@
+{
+  "suites": 2,
+  "tests": 8,
+  "passes": 8,
+  "pending": 0,
+  "failures": 0,
+  "start": "2025-03-05T14:04:29.463Z",
+  "duration": 15644,
+  "file": "cypress/e2e/2-advanced-examples/connectors.cy.js"
+}
