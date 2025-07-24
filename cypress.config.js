@@ -2,6 +2,7 @@ const { defineConfig } = require('cypress')
 const { allureCypress } = require('allure-cypress/reporter')
 
 module.exports = defineConfig({
+  projectId: 'ycizd8',
   defaultCommandTimeout: 30000,
   pageLoadTimeout: 60000,
   requestTimeout: 30000,
